@@ -1,0 +1,21 @@
+{
+  "name": "orange-torch",
+  "displayName": "Orange Torch",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orange Torch",
+        "uiTheme": "vs-dark",
+        "path": "./themes/orange-torch-color-theme.json"
+      }
+    ]
+  }
+}
