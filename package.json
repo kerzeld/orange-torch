@@ -1,7 +1,8 @@
 {
   "name": "orange-torch",
   "displayName": "Orange Torch",
-  "description": "",
+  "description": "A dark orange pastel kind of theme",
+  "repository": "https://github.com/kerzeld/orange-torch",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
@@ -17,5 +18,8 @@
         "path": "./themes/orange-torch-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
   }
 }
